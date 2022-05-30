@@ -40,3 +40,5 @@ for i in range(int(views)):
     time.sleep(int(duration))
     
 ```    
+
+P.S: You needs [webdriver](https://chromedriver.chromium.org/downloads). webdriver must match with your chrome version.
