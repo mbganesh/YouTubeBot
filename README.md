@@ -41,4 +41,9 @@ for i in range(int(views)):
     
 ```    
 
-P.S: You needs [webdriver](https://chromedriver.chromium.org/downloads). webdriver must match with your chrome version.
+P.S: 
+* You needs [webdriver](https://chromedriver.chromium.org/downloads). webdriver must match with your chrome version.
+* Update EnvPath:
+* >C:\Program Files\webdrivers\    || chromedriver.exe
+* Install selenium
+* >pip install selenium
